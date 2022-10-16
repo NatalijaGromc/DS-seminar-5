@@ -1,16 +1,20 @@
 ﻿// Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
 // [345, 897, 568, 234] -> 2
 
-int[] array = CreateArray(4, 100, 999);
+int[] array = CreateArray(10, 100, 999);
 
 PrintArray(array);
 
-for (int i = 0; i < array.Length; i++)
-i % 2 == 0 ;
+int count = 0;
 
-PrintArray(array);
+foreach (int item in array)
+{
+if (item % 2 == 0)
+count++;
+}
 
-// Методы массивов
+Console.Write($"{count}");
+
 int[] CreateArray(int size, int min = 0, int max = 10)
 {
 int[] _array = new int[size];

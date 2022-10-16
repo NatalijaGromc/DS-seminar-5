@@ -1,0 +1,15 @@
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\bin\Debug\net6.0\DS3.exe
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\bin\Debug\net6.0\DS3.deps.json
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\bin\Debug\net6.0\DS3.runtimeconfig.json
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\bin\Debug\net6.0\DS3.dll
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\bin\Debug\net6.0\DS3.pdb
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\obj\Debug\net6.0\DS3.csproj.AssemblyReference.cache
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\obj\Debug\net6.0\DS3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\obj\Debug\net6.0\DS3.AssemblyInfoInputs.cache
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\obj\Debug\net6.0\DS3.AssemblyInfo.cs
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\obj\Debug\net6.0\DS3.csproj.CoreCompileInputs.cache
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\obj\Debug\net6.0\DS3.dll
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\obj\Debug\net6.0\refint\DS3.dll
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\obj\Debug\net6.0\DS3.pdb
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\obj\Debug\net6.0\DS3.genruntimeconfig.cache
+C:\Users\gromc\OneDrive\Рабочий стол\DS seminar5\DS3\obj\Debug\net6.0\ref\DS3.dll

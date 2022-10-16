@@ -4,32 +4,18 @@
 
 int[] array = CreateArray(new Random().Next(4, 11));
 
-int lengthA = 0;
-if (array.Length % 2 != 0)
-lengthA = array.Length / 2 + 1;
-else
-lengthA = array.Length / 2;
-
-int[] newArray = new int[lengthA];
-
 PrintArray(array);
 
-for (int i = 0, z = array.Length - 1; i < array.Length; i++, z--)
-{
+int sum = 0;
 
-if (z < i)
-break;
-else if (z == i)
+for (int i = 0; i < array.Length; i++)
 {
-newArray[i] = array[i];
-break;
-}
-newArray[i] = array[i] * array[z];
+if (i%2 != 0)
+sum += array[i];
 }
 
-PrintArray(newArray);
+Console.Write($"{sum}");
 
-// Методы массивов
 int[] CreateArray(int size, int min = 0, int max = 10)
 {
 int[] _array = new int[size];
